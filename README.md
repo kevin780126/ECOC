@@ -1,6 +1,6 @@
-EPC
+ECOC
 
-EPC open source project
+ECOC open source project
 
 Project Status
 
